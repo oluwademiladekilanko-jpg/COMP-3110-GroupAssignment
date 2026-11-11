@@ -1,0 +1,21 @@
+README.md
+.gitignore
+pom.xml                      
+docs/COMP-3110_Project_Introduction.pptx
+data/eclipseTest/            
+data/newDataset/             
+src/main/java/lhdiff/
+    Main.java
+    FileReaderUtil.java
+    Preprocessor.java
+    DiffDetector.java
+    SimilarityUtil.java
+    SimHash.java
+    CandidateGenerator.java
+    ConflictResolver.java
+    LineSplitDetector.java
+    LineMapping.java
+    LHDiff.java
+src/main/java/lhdiff/eval/
+    GroundTruthParser.java
+    Evaluator.java
